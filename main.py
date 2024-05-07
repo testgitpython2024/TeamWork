@@ -6,5 +6,5 @@ while running:
     for event in pygame.event.get():
         pass
 
-
+# я молодец
 pygame.quit()
